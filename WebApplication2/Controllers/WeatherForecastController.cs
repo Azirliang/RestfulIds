@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using static WebApplication2.CommaDelimeterArrayModelBinder;
+using static WebApplication2.IdsArrayModelBinder;
 
 namespace WebApplication2.Controllers
 {
